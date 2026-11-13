@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chart Vector | Aviation Charts</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+<header class="home-header">
+
+    <div class="logo">
+        <span>✈</span> CHART <b>VECTOR</b>
+    </div>
+
+    <div class="header-right">
+
+        <nav class="main-nav">
+            <a href="#airports">Airports</a>
+            <a href="#about">About</a>
+            <a href="https://aim-india.aai.aero/"
+               target="_blank"
+               rel="noopener noreferrer">
+                AAI eAIP ↗
+            </a>
+        </nav>
+
+        <div class="airac-indicator">
+            <span class="airac-dot"></span>
+
+            <div>
+                <span class="airac-label">
+                    CURRENT AIP DATA
+                </span>
+                <span class="airac-dates">
+                    29 OCT — 26 NOV 2026
+                </span>
+            </div>
+        </div>
+
+    </div>
+
+</header>
+
+
+<section class="hero">
+
+    <h1>INDIAN AVIATION'S<br>
+        <span>CHART LIBRARY.</span>
+    </h1>
+
+    <p class="subtitle">
+        Find airport charts, procedures and aeronautical
+        information across India.
+    </p>
+
+    <input
+        type="text"
+        id="search"
+        placeholder="Search airport, ICAO or IATA..."
+    >
+</section>
+
+<section id="airports" class="airports">
+
+    <div class="section-heading">
+        <div>
+            <p class="tag">DIRECTORY</p>
+            <h2>Indian Airports</h2>
+        </div>
+
+        <span id="airport-count"></span>
+    </div>
+
+    <div id="airport-list" class="airport-grid"></div>
+
+</section>
+
+<section id="about" class="about">
+    <h2>Built for India's virtual skies.</h2>
+    <p>
+    Charts India is an independent community project built
+    for virtual pilots and aviation enthusiasts. Our goal is to make regularly updated Indian
+    aeronautical charts and airport information accessible
+    through one convenient platform.
+    </p>
+    <p class="disclaimer">
+        For flight simulation use only. Not for real-world navigation.
+    </p>
+</section>
+
+<footer>
+    CHARTS INDIA © 2026
+    <span>Independent aviation community project</span>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>

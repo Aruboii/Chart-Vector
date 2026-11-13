@@ -1,0 +1,4182 @@
+{
+  "source": "AAI eAIP India",
+  "airports": {
+    "VAAH": {
+      "elevationFt": 189.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.800 MHz",
+        "APP: 128.375 MHz",
+        "TWR: 118.100 MHz",
+        "TWR: 119.600 MHz",
+        "ATIS: 126.800 MHz",
+        "ACC: 119.350 MHz",
+        "ACC: 123.750 MHz",
+        "ACC: 134.200 MHz",
+        "RADAR: 123.750 MHz",
+        "RADAR: 134.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAAH-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:30.011907+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 3505,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 3505,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAAM": {
+      "elevationFt": 1137.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.650 MHz",
+        "APP: 124.475 MHz",
+        "TWR: 118.650 MHz",
+        "TWR: 124.475 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAAM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:31.403276+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 1850,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 1850,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAAU": {
+      "elevationFt": 1917.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 122.300 MHz",
+        "TWR: 118.350 MHz",
+        "TWR: 122.300 MHz",
+        "ATIS: 127.000 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAAU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:33.138328+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2839,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "27",
+          "lengthM": 2839,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VABB": {
+      "elevationFt": 40.0,
+      "runways": [
+        "14",
+        "32",
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 119.300 MHz",
+        "APP: 120.350 MHz",
+        "APP: 124.650 MHz",
+        "APP: 125.450 MHz",
+        "APP: 126.975 MHz",
+        "APP: 127.900 MHz",
+        "TWR: 118.100 MHz",
+        "TWR: 122.500 MHz",
+        "ATIS: 126.400 MHz",
+        "ACC: 133.425 MHz",
+        "ACC: 120.500 MHz",
+        "ACC: 125.350 MHz",
+        "ACC: 127.150 MHz",
+        "ACC: 132.700 MHz",
+        "ACC: 133.300 MHz",
+        "ACC: 133.850 MHz",
+        "ACC: 133.925 MHz",
+        "ACC: 135.750 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VABB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:41.939743+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 2871,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 2871,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "09",
+          "lengthM": null,
+          "widthM": null,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": null,
+          "widthM": null,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VABO": {
+      "elevationFt": 131.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.325 MHz",
+        "APP: 122.350 MHz",
+        "TWR: 118.325 MHz",
+        "TWR: 122.350 MHz",
+        "ATIS: 126.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VABO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:43.789504+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 2466,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "22",
+          "lengthM": 2466,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VABP": {
+      "elevationFt": 1721.0,
+      "runways": [
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.050 MHz",
+        "APP: 118.550 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 118.550 MHz",
+        "ATIS: 127.250 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VABP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:45.434707+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VABV": {
+      "elevationFt": 43.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.150 MHz",
+        "APP: 120.800 MHz",
+        "TWR: 118.150 MHz",
+        "TWR: 120.800 MHz",
+        "ATIS: 128.025 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VABV-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:47.793381+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 1921,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 1921,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VADN": {
+      "elevationFt": 42.0,
+      "runways": [
+        "03",
+        "21",
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 118.700 MHz",
+        "TWR: 119.700 MHz",
+        "TWR: 120.700 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VADN-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:49.179416+00:00",
+      "runwayDetails": [
+        {
+          "designation": "03",
+          "lengthM": 1801,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "21",
+          "lengthM": 1801,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "10",
+          "lengthM": 1035,
+          "widthM": 25,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 1035,
+          "widthM": 25,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAGD": {
+      "elevationFt": 994.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.350 MHz",
+        "APP: 118.700 MHz",
+        "TWR: 118.350 MHz",
+        "TWR: 118.700 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAGD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:50.609692+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 2624,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "22",
+          "lengthM": 2624,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAHS": {
+      "elevationFt": 650.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 120.025 MHz",
+        "APP: 120.275 MHz",
+        "TWR: 120.025 MHz",
+        "TWR: 120.275 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAHS-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:52.067178+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 3040,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "23",
+          "lengthM": 3040,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VAID": {
+      "elevationFt": 1854.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.500 MHz",
+        "APP: 120.625 MHz",
+        "TWR: 118.500 MHz",
+        "TWR: 122.800 MHz",
+        "ATIS: 127.600 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAID-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:53.921576+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 2754,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 2754,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAJB": {
+      "elevationFt": 1626.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.850 MHz",
+        "APP: 122.300 MHz",
+        "TWR: 118.850 MHz",
+        "TWR: 122.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAJB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:55.265838+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 2750,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "24",
+          "lengthM": 2750,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAJJ": {
+      "elevationFt": 17.0,
+      "runways": [
+        "08",
+        "26",
+        "16",
+        "34"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.750 MHz",
+        "APP: 124.350 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 124.350 MHz",
+        "ATIS: 128.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAJJ-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:57.072917+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 1132,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 1132,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "16",
+          "lengthM": 725,
+          "widthM": 20,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "34",
+          "lengthM": 725,
+          "widthM": 20,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAJL": {
+      "elevationFt": 842.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.625 MHz",
+        "APP: 124.300 MHz",
+        "TWR: 118.625 MHz",
+        "TWR: 124.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAJL-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:58.505078+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 1700,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 1700,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAKE": {
+      "elevationFt": 97.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 118.600 MHz",
+        "TWR: 124.350 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAKE-en-GB.html",
+      "lastUpdated": "2026-11-13T18:27:59.957992+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 1524,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 1524,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAKP": {
+      "elevationFt": 2001.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.550 MHz",
+        "APP: 124.300 MHz",
+        "TWR: 118.550 MHz",
+        "TWR: 124.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAKP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:01.487066+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 1780,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 1780,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAKS": {
+      "elevationFt": 168.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.300 MHz",
+        "APP: 122.300 MHz",
+        "TWR: 118.300 MHz",
+        "TWR: 122.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAKS-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:02.819522+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 1371,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 1371,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAMA": {
+      "elevationFt": 17.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 122.450 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAMA-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:04.102813+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 1898,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 1898,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VANM": {
+      "elevationFt": 33.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 119.300 MHz",
+        "APP: 120.350 MHz",
+        "APP: 124.650 MHz",
+        "APP: 125.450 MHz",
+        "APP: 126.975 MHz",
+        "APP: 127.900 MHz",
+        "TWR: 118.275 MHz",
+        "TWR: 119.000 MHz",
+        "ATIS: 128.075 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VANM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:05.912901+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 3700,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "26",
+          "lengthM": 3700,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VANP": {
+      "elevationFt": 1037.0,
+      "runways": [
+        "14",
+        "32"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 120.400 MHz",
+        "APP: 125.600 MHz",
+        "TWR: 118.100 MHz",
+        "ATIS: 128.325 MHz",
+        "ACC: 123.900 MHz",
+        "ACC: 133.650 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VANP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:07.779361+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 3200,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 3200,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAOZ": {
+      "elevationFt": 1995.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 120.600 MHz",
+        "RADAR: 120.600 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAOZ-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:09.169447+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 3000,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "27",
+          "lengthM": 3000,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VAPO": {
+      "elevationFt": 1943.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 121.300 MHz",
+        "TWR: 123.500 MHz",
+        "ACC: 118.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAPO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:10.609552+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 2540,
+          "widthM": 46,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 2540,
+          "widthM": 46,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAPR": {
+      "elevationFt": 26.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.700 MHz",
+        "APP: 118.850 MHz",
+        "TWR: 118.700 MHz",
+        "TWR: 118.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAPR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:12.086087+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 1371,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 1371,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VASD": {
+      "elevationFt": 1938.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 118.875 MHz",
+        "APP: 121.225 MHz",
+        "TWR: 118.875 MHz",
+        "TWR: 121.225 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VASD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:13.356196+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2500,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2500,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VASL": {
+      "elevationFt": 1588.0,
+      "runways": [
+        "15",
+        "33"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "TWR: 118.600 MHz",
+        "TWR: 124.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VASL-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:14.608146+00:00",
+      "runwayDetails": [
+        {
+          "designation": "15",
+          "lengthM": 2009,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "33",
+          "lengthM": 2009,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VASU": {
+      "elevationFt": 25.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.050 MHz",
+        "APP: 118.550 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 118.550 MHz",
+        "ATIS: 127.075 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VASU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:16.105906+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 2906,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "22",
+          "lengthM": 2906,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VAUD": {
+      "elevationFt": 1690.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 120.850 MHz",
+        "APP: 124.075 MHz",
+        "TWR: 118.650 MHz",
+        "TWR: 124.075 MHz",
+        "ATIS: 128.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VAUD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:17.744868+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 2741,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 2741,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEAH": {
+      "elevationFt": 261.0,
+      "runways": [
+        "14",
+        "32"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 118.550 MHz",
+        "TWR: 122.050 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEAH-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:19.046140+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 1499,
+          "widthM": 23,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 1499,
+          "widthM": 23,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEAP": {
+      "elevationFt": 1941.0,
+      "runways": [
+        "16",
+        "34"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 118.200 MHz",
+        "APP: 118.325 MHz",
+        "TWR: 118.200 MHz",
+        "TWR: 118.325 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEAP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:20.432095+00:00",
+      "runwayDetails": [
+        {
+          "designation": "16",
+          "lengthM": 1800,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "34",
+          "lengthM": 1800,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEAT": {
+      "elevationFt": 56.0,
+      "runways": [
+        "18",
+        "36"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.050 MHz",
+        "APP: 120.400 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 119.050 MHz",
+        "ATIS: 128.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEAT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:22.168254+00:00",
+      "runwayDetails": [
+        {
+          "designation": "18",
+          "lengthM": 2286,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "36",
+          "lengthM": 2286,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEAY": {
+      "elevationFt": 329.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.200 MHz",
+        "APP: 124.075 MHz",
+        "TWR: 119.200 MHz",
+        "TWR: 124.075 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEAY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:23.499414+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 2200,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "29",
+          "lengthM": 2200,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VEBI": {
+      "elevationFt": 2926.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 119.150 MHz",
+        "TWR: 119.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEBI-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:25.168331+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 1829,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "22",
+          "lengthM": 1829,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VEBN": {
+      "elevationFt": 270.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.000 MHz",
+        "APP: 123.875 MHz",
+        "TWR: 118.100 MHz",
+        "TWR: 119.000 MHz",
+        "ATIS: 126.200 MHz",
+        "ACC: 118.950 MHz",
+        "ACC: 119.275 MHz",
+        "ACC: 128.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEBN-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:26.683120+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2746,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2746,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEBD": {
+      "elevationFt": 414.0,
+      "runways": [
+        "11"
+      ],
+      "transitionAltitudeFt": 13000,
+      "frequencies": [
+        "APP: 131.200 MHz",
+        "TWR: 122.300 MHz",
+        "RADAR: 131.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEBD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:27.962883+00:00",
+      "runwayDetails": []
+    },
+    "VEBS": {
+      "elevationFt": 141.0,
+      "runways": [
+        "14",
+        "32"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 125.525 MHz",
+        "TWR: 118.150 MHz",
+        "TWR: 125.150 MHz",
+        "ATIS: 126.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEBS-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:29.444222+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEBU": {
+      "elevationFt": 906.0,
+      "runways": [
+        "17",
+        "35"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.075 MHz",
+        "APP: 118.625 MHz",
+        "TWR: 118.075 MHz",
+        "TWR: 118.625 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEBU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:31.236424+00:00",
+      "runwayDetails": [
+        {
+          "designation": "17",
+          "lengthM": 1439,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "35",
+          "lengthM": 1439,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VECC": {
+      "elevationFt": 20.0,
+      "runways": [
+        "01L",
+        "19R",
+        "01R",
+        "19L"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.300 MHz",
+        "APP: 120.025 MHz",
+        "APP: 120.675 MHz",
+        "APP: 126.075 MHz",
+        "APP: 127.300 MHz",
+        "APP: 127.900 MHz",
+        "TWR: 118.025 MHz",
+        "TWR: 118.100 MHz",
+        "ATIS: 126.400 MHz",
+        "ACC: 120.100 MHz",
+        "ACC: 120.575 MHz",
+        "ACC: 120.700 MHz",
+        "ACC: 124.650 MHz",
+        "ACC: 125.775 MHz",
+        "ACC: 125.900 MHz",
+        "ACC: 126.100 MHz",
+        "ACC: 127.525 MHz",
+        "ACC: 132.250 MHz",
+        "ACC: 132.350 MHz",
+        "ACC: 133.750 MHz",
+        "ACC: 134.375 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VECC-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:34.417923+00:00",
+      "runwayDetails": [
+        {
+          "designation": "01L",
+          "lengthM": 3271,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "19R",
+          "lengthM": 3271,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "01R",
+          "lengthM": 3633,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "19L",
+          "lengthM": 3633,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VECO": {
+      "elevationFt": 141.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 8000,
+      "frequencies": [
+        "TWR: 118.150 MHz",
+        "TWR: 124.325 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VECO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:35.877337+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 1069,
+          "widthM": 30,
+          "surface": null
+        },
+        {
+          "designation": "22",
+          "lengthM": 1069,
+          "widthM": 30,
+          "surface": null
+        }
+      ]
+    },
+    "VECT": {
+      "elevationFt": 983.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.500 MHz",
+        "APP: 122.250 MHz",
+        "TWR: 118.500 MHz",
+        "TWR: 122.250 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VECT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:37.299520+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 1398,
+          "widthM": 23,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "24",
+          "lengthM": 1398,
+          "widthM": 23,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEDG": {
+      "elevationFt": 301.0,
+      "runways": [
+        "16",
+        "34"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 118.550 MHz",
+        "TWR: 119.450 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEDG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:38.950630+00:00",
+      "runwayDetails": [
+        {
+          "designation": "16",
+          "lengthM": 2800,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "34",
+          "lengthM": 2800,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEGK": {
+      "elevationFt": 260.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 131.000 MHz",
+        "TWR: 128.200 MHz",
+        "RADAR: 131.000 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEGK-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:40.359754+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 2777,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "29",
+          "lengthM": 2777,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VEDO": {
+      "elevationFt": 802.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 119.350 MHz",
+        "APP: 120.825 MHz",
+        "TWR: 119.350 MHz",
+        "TWR: 120.825 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEDO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:41.705120+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2500,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2500,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VEGT": {
+      "elevationFt": 163.0,
+      "runways": [
+        "02",
+        "20"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 123.900 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 122.050 MHz",
+        "ATIS: 126.600 MHz",
+        "ACC: 120.500 MHz",
+        "ACC: 128.775 MHz",
+        "RADAR: 120.500 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEGT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:43.637752+00:00",
+      "runwayDetails": [
+        {
+          "designation": "02",
+          "lengthM": 3103,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "20",
+          "lengthM": 3103,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEGY": {
+      "elevationFt": 383.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.250 MHz",
+        "APP: 118.450 MHz",
+        "TWR: 118.250 MHz",
+        "TWR: 118.450 MHz",
+        "ATIS: 127.050 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEGY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:45.173345+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 2287,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 2287,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEHO": {
+      "elevationFt": 351.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 12000,
+      "frequencies": [
+        "APP: 118.850 MHz",
+        "APP: 122.150 MHz",
+        "TWR: 118.850 MHz",
+        "TWR: 122.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEHO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:46.634767+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 2300,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "26",
+          "lengthM": 2300,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VEIM": {
+      "elevationFt": 2544.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 11000,
+      "frequencies": [
+        "APP: 118.550 MHz",
+        "APP: 124.350 MHz",
+        "TWR: 118.550 MHz",
+        "TWR: 124.350 MHz",
+        "ATIS: 126.650 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEIM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:48.132466+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "22",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VEJR": {
+      "elevationFt": 1842.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.025 MHz",
+        "APP: 118.150 MHz",
+        "TWR: 118.025 MHz",
+        "TWR: 118.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEJR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:49.786040+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 1704,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "24",
+          "lengthM": 1704,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEJS": {
+      "elevationFt": 481.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 119.225 MHz",
+        "APP: 122.100 MHz",
+        "TWR: 119.225 MHz",
+        "TWR: 122.100 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEJS-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:51.239328+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 1030,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 1030,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEJH": {
+      "elevationFt": 757.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 118.350 MHz",
+        "APP: 124.350 MHz",
+        "TWR: 118.350 MHz",
+        "TWR: 124.350 MHz",
+        "ATIS: 128.425 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEJH-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:52.610287+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 2391,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "24",
+          "lengthM": 2391,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VEJT": {
+      "elevationFt": 299.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 8000,
+      "frequencies": [
+        "APP: 121.300 MHz",
+        "RADAR: 130.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEJT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:53.991308+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 2862,
+          "widthM": 46,
+          "surface": null
+        },
+        {
+          "designation": "22",
+          "lengthM": 2862,
+          "widthM": 46,
+          "surface": null
+        }
+      ]
+    },
+    "VEKI": {
+      "elevationFt": 263.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 118.025 MHz",
+        "TWR: 118.675 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEKI-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:55.428136+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 3200,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "29",
+          "lengthM": 3200,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEKO": {
+      "elevationFt": 731.0,
+      "runways": [
+        "01",
+        "19"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.150 MHz",
+        "APP: 124.350 MHz",
+        "TWR: 118.150 MHz",
+        "TWR: 124.350 MHz",
+        "ATIS: 127.875 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEKO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:56.953209+00:00",
+      "runwayDetails": [
+        {
+          "designation": "01",
+          "lengthM": 2286,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "19",
+          "lengthM": 2286,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEKU": {
+      "elevationFt": 355.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 123.500 MHz",
+        "TWR: 122.700 MHz",
+        "RADAR: 132.000 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEKU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:58.437328+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 2286,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "24",
+          "lengthM": 2286,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VELP": {
+      "elevationFt": 1406.0,
+      "runways": [
+        "17",
+        "35"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 118.150 MHz",
+        "APP: 122.250 MHz",
+        "TWR: 118.150 MHz",
+        "TWR: 122.250 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VELP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:28:59.906058+00:00",
+      "runwayDetails": [
+        {
+          "designation": "17",
+          "lengthM": 2440,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "35",
+          "lengthM": 2440,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VELR": {
+      "elevationFt": 331.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 12000,
+      "frequencies": [
+        "APP: 118.650 MHz",
+        "APP: 124.300 MHz",
+        "TWR: 118.650 MHz",
+        "TWR: 124.300 MHz",
+        "ATIS: 128.600 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VELR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:01.516657+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 2281,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "22",
+          "lengthM": 2281,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEMN": {
+      "elevationFt": 361.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 8000,
+      "frequencies": [
+        "APP: 118.250 MHz",
+        "APP: 124.000 MHz",
+        "TWR: 118.250 MHz",
+        "TWR: 124.000 MHz",
+        "ATIS: 127.650 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEMN-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:03.059652+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 2291,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 2291,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEMR": {
+      "elevationFt": 493.0,
+      "runways": [
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 11000,
+      "frequencies": [
+        "APP: 118.450 MHz",
+        "APP: 118.600 MHz",
+        "TWR: 118.450 MHz",
+        "TWR: 118.600 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEMR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:05.084187+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 2290,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 2290,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEPT": {
+      "elevationFt": 175.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 121.100 MHz",
+        "APP: 127.775 MHz",
+        "TWR: 118.300 MHz",
+        "ATIS: 128.000 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEPT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:07.155125+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 2072,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 2072,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEPY": {
+      "elevationFt": 4646.0,
+      "runways": [
+        "02",
+        "20"
+      ],
+      "transitionAltitudeFt": 24000,
+      "frequencies": [
+        "TWR: 118.250 MHz",
+        "TWR: 118.625 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEPY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:08.614929+00:00",
+      "runwayDetails": [
+        {
+          "designation": "02",
+          "lengthM": 1700,
+          "widthM": 30,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "20",
+          "lengthM": 1700,
+          "widthM": 30,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VERC": {
+      "elevationFt": 2150.0,
+      "runways": [
+        "13",
+        "31"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 124.425 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 124.300 MHz",
+        "ATIS: 126.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VERC-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:10.304738+00:00",
+      "runwayDetails": [
+        {
+          "designation": "13",
+          "lengthM": 2748,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "31",
+          "lengthM": 2748,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VERK": {
+      "elevationFt": 673.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.750 MHz",
+        "APP: 118.875 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 118.875 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VERK-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:11.578419+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 1760,
+          "widthM": 30,
+          "surface": null
+        },
+        {
+          "designation": "27",
+          "lengthM": 1760,
+          "widthM": 30,
+          "surface": null
+        }
+      ]
+    },
+    "VERP": {
+      "elevationFt": 1044.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 124.300 MHz",
+        "APP: 124.750 MHz",
+        "TWR: 124.300 MHz",
+        "TWR: 124.750 MHz",
+        "ATIS: 126.650 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VERP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:13.085584+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 3250,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "24",
+          "lengthM": 3250,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VERU": {
+      "elevationFt": 139.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.500 MHz",
+        "APP: 118.575 MHz",
+        "TWR: 118.500 MHz",
+        "TWR: 118.575 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VERU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:14.422435+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 1771,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 1771,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VERW": {
+      "elevationFt": 1070.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.775 MHz",
+        "APP: 120.800 MHz",
+        "TWR: 119.775 MHz",
+        "TWR: 120.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VERW-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:15.788759+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 1800,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 1800,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VEST": {
+      "elevationFt": 1054.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.475 MHz",
+        "APP: 121.150 MHz",
+        "TWR: 119.475 MHz",
+        "TWR: 121.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VEST-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:17.073541+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 1200,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "29",
+          "lengthM": 1200,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VETJ": {
+      "elevationFt": 770.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 18000,
+      "frequencies": [
+        "APP: 118.750 MHz",
+        "APP: 124.350 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 124.350 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VETJ-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:18.441419+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 1500,
+          "widthM": 30,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "22",
+          "lengthM": 1500,
+          "widthM": 30,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VIAG": {
+      "elevationFt": 550.0,
+      "runways": [
+        "05",
+        "23",
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 129.500 MHz",
+        "TWR: 125.000 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIAG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:19.771213+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 2866,
+          "widthM": 46,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 2866,
+          "widthM": 46,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "12",
+          "lengthM": 1829,
+          "widthM": 46,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 1829,
+          "widthM": 46,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIAH": {
+      "elevationFt": 602.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 123.050 MHz",
+        "APP: 123.200 MHz",
+        "TWR: 123.050 MHz",
+        "TWR: 123.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIAH-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:21.007299+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 1488,
+          "widthM": 23,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "29",
+          "lengthM": 1488,
+          "widthM": 23,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIAR": {
+      "elevationFt": 760.0,
+      "runways": [
+        "16",
+        "34"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 119.050 MHz",
+        "APP: 121.150 MHz",
+        "TWR: 118.150 MHz",
+        "TWR: 124.350 MHz",
+        "ATIS: 127.650 MHz",
+        "ACC: 125.050 MHz",
+        "ACC: 128.725 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIAR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:22.665966+00:00",
+      "runwayDetails": [
+        {
+          "designation": "16",
+          "lengthM": 3658,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "34",
+          "lengthM": 3658,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIBR": {
+      "elevationFt": 3571.0,
+      "runways": [
+        "16",
+        "34"
+      ],
+      "transitionAltitudeFt": 23000,
+      "frequencies": [
+        "APP: 118.450 MHz",
+        "APP: 122.300 MHz",
+        "TWR: 118.450 MHz",
+        "TWR: 122.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIBR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:24.258256+00:00",
+      "runwayDetails": [
+        {
+          "designation": "16",
+          "lengthM": 1049,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "34",
+          "lengthM": 1049,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIBY": {
+      "elevationFt": 571.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 122.900 MHz",
+        "TWR: 125.525 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIBY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:25.588201+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 2743,
+          "widthM": 46,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "29",
+          "lengthM": 2743,
+          "widthM": 46,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VICG": {
+      "elevationFt": 1032.0,
+      "runways": [
+        "11",
+        "29"
+      ],
+      "transitionAltitudeFt": 12000,
+      "frequencies": [
+        "APP: 120.700 MHz",
+        "APP: 122.650 MHz",
+        "TWR: 118.300 MHz",
+        "TWR: 118.925 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VICG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:26.976404+00:00",
+      "runwayDetails": [
+        {
+          "designation": "11",
+          "lengthM": 3170,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "29",
+          "lengthM": 3170,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VIDD": {
+      "elevationFt": 705.0,
+      "runways": [
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "TWR: 118.875 MHz",
+        "TWR: 122.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIDD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:28.516682+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 1180,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 1180,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIDN": {
+      "elevationFt": 1857.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 12000,
+      "frequencies": [
+        "APP: 125.475 MHz",
+        "APP: 126.575 MHz",
+        "TWR: 125.475 MHz",
+        "TWR: 126.575 MHz",
+        "ATIS: 128.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIDN-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:30.458113+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 2140,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 2140,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIDP": {
+      "elevationFt": 778.0,
+      "runways": [
+        "10",
+        "28",
+        "11L",
+        "29R",
+        "11R",
+        "29L",
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "TWR: 118.100 MHz",
+        "TWR: 118.250 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 123.825 MHz",
+        "TWR: 124.375 MHz",
+        "TWR: 125.850 MHz",
+        "ATIS: 126.400 MHz",
+        "ACC: 132.775 MHz",
+        "ACC: 119.500 MHz",
+        "ACC: 120.900 MHz",
+        "ACC: 124.550 MHz",
+        "ACC: 125.700 MHz",
+        "ACC: 125.950 MHz",
+        "ACC: 132.150 MHz",
+        "ACC: 132.850 MHz",
+        "ACC: 132.975 MHz",
+        "ACC: 133.900 MHz",
+        "ACC: 134.075 MHz",
+        "ACC: 134.500 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIDP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:33.996505+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 3813,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 3813,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "11L",
+          "lengthM": null,
+          "widthM": null,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "29R",
+          "lengthM": null,
+          "widthM": null,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "11R",
+          "lengthM": null,
+          "widthM": null,
+          "surface": null
+        },
+        {
+          "designation": "29L",
+          "lengthM": null,
+          "widthM": null,
+          "surface": null
+        },
+        {
+          "designation": "09",
+          "lengthM": 2816,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2816,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIDX": {
+      "elevationFt": 703.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 134.200 MHz",
+        "TWR: 130.100 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIDX-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:35.426459+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VIDT": {
+      "elevationFt": 777.0,
+      "runways": [
+        "03",
+        "21"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 119.225 MHz",
+        "TWR: 119.950 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIDT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:36.659841+00:00",
+      "runwayDetails": [
+        {
+          "designation": "03",
+          "lengthM": 1810,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "21",
+          "lengthM": 1810,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIGG": {
+      "elevationFt": 2527.0,
+      "runways": [
+        "15",
+        "33"
+      ],
+      "transitionAltitudeFt": 21000,
+      "frequencies": [
+        "APP: 118.050 MHz",
+        "APP: 120.100 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 120.100 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIGG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:38.068487+00:00",
+      "runwayDetails": [
+        {
+          "designation": "15",
+          "lengthM": 1376,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "33",
+          "lengthM": 1376,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIGR": {
+      "elevationFt": 626.0,
+      "runways": [
+        "11"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 132.400 MHz",
+        "TWR: 122.700 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIGR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:39.413631+00:00",
+      "runwayDetails": []
+    },
+    "VIHR": {
+      "elevationFt": 700.0,
+      "runways": [
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.300 MHz",
+        "APP: 122.100 MHz",
+        "TWR: 118.300 MHz",
+        "TWR: 122.100 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIHR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:40.741568+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 3000,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 3000,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIHX": {
+      "elevationFt": 790.0,
+      "runways": [
+        "13",
+        "31"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 130.100 MHz",
+        "TWR: 130.100 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIHX-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:42.116314+00:00",
+      "runwayDetails": [
+        {
+          "designation": "13",
+          "lengthM": 3034,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "31",
+          "lengthM": 3034,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VIJO": {
+      "elevationFt": 712.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 122.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIJO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:43.455386+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIJP": {
+      "elevationFt": 1268.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 119.750 MHz",
+        "APP: 120.225 MHz",
+        "TWR: 124.300 MHz",
+        "TWR: 125.250 MHz",
+        "ATIS: 126.600 MHz",
+        "ACC: 125.975 MHz",
+        "ACC: 127.575 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIJP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:45.465932+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 3407,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "26",
+          "lengthM": 3407,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VIJU": {
+      "elevationFt": 965.0,
+      "runways": [
+        "18",
+        "36"
+      ],
+      "transitionAltitudeFt": 11000,
+      "frequencies": [
+        "TWR: 122.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIJU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:46.805690+00:00",
+      "runwayDetails": [
+        {
+          "designation": "18",
+          "lengthM": 2438,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "36",
+          "lengthM": 2438,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIKG": {
+      "elevationFt": 1478.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.200 MHz",
+        "APP: 118.450 MHz",
+        "TWR: 118.200 MHz",
+        "TWR: 118.450 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIKG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:48.137455+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 2000,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "23",
+          "lengthM": 2000,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VILD": {
+      "elevationFt": 834.0,
+      "runways": [
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "TWR: 119.450 MHz",
+        "TWR: 124.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VILD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:49.453564+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 1460,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 1460,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VILH": {
+      "elevationFt": 10839.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 24000,
+      "frequencies": [
+        "TWR: 120.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VILH-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:50.738334+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 2774,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 2774,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VILK": {
+      "elevationFt": 406.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 124.800 MHz",
+        "APP: 125.800 MHz",
+        "TWR: 118.600 MHz",
+        "TWR: 122.500 MHz",
+        "ATIS: 126.800 MHz",
+        "ACC: 120.200 MHz",
+        "ACC: 120.450 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VILK-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:52.409876+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "27",
+          "lengthM": 2744,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VIMB": {
+      "elevationFt": 635.0,
+      "runways": [
+        "12",
+        "30"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.025 MHz",
+        "APP: 118.625 MHz",
+        "TWR: 118.025 MHz",
+        "TWR: 118.625 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIMB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:53.704135+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 2112,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 2112,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIND": {
+      "elevationFt": 653.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 120.825 MHz",
+        "APP: 122.175 MHz",
+        "TWR: 118.675 MHz",
+        "TWR: 119.125 MHz",
+        "ATIS: 127.225 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIND-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:55.154096+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 3900,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 3900,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIPG": {
+      "elevationFt": 4967.0,
+      "runways": [
+        "14",
+        "32"
+      ],
+      "transitionAltitudeFt": null,
+      "frequencies": [
+        "TWR: 122.100 MHz",
+        "TWR: 122.550 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIPG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:56.689695+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 1568,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 1568,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIPT": {
+      "elevationFt": 772.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 11000,
+      "frequencies": [
+        "APP: 118.450 MHz",
+        "APP: 119.150 MHz",
+        "TWR: 118.450 MHz",
+        "TWR: 119.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIPT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:58.079534+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 1372,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 1372,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VISM": {
+      "elevationFt": 5073.0,
+      "runways": [
+        "14",
+        "32"
+      ],
+      "transitionAltitudeFt": 13000,
+      "frequencies": [
+        "TWR: 118.350 MHz",
+        "TWR: 118.650 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VISM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:29:59.497752+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 1189,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 1189,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VISP": {
+      "elevationFt": 896.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 120.400 MHz",
+        "TWR: 120.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VISP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:00.963210+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VISR": {
+      "elevationFt": 5487.0,
+      "runways": [
+        "13",
+        "31"
+      ],
+      "transitionAltitudeFt": 20000,
+      "frequencies": [
+        "APP: 133.200 MHz",
+        "TWR: 130.500 MHz",
+        "RADAR: 133.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VISR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:02.336377+00:00",
+      "runwayDetails": [
+        {
+          "designation": "13",
+          "lengthM": 3658,
+          "widthM": 46,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "31",
+          "lengthM": 3658,
+          "widthM": 46,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VIUT": {
+      "elevationFt": 505.0,
+      "runways": [
+        "02",
+        "20"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 123.200 MHz",
+        "TWR: 123.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VIUT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:03.867325+00:00",
+      "runwayDetails": [
+        {
+          "designation": "02",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "20",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VOAT": {
+      "elevationFt": 12.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.700 MHz",
+        "APP: 122.300 MHz",
+        "TWR: 118.700 MHz",
+        "TWR: 122.300 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOAT-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:05.288749+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 1204,
+          "widthM": 30,
+          "surface": null
+        },
+        {
+          "designation": "22",
+          "lengthM": 1204,
+          "widthM": 30,
+          "surface": null
+        }
+      ]
+    },
+    "VOBG": {
+      "elevationFt": 2915.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 127.700 MHz",
+        "TWR: 123.500 MHz",
+        "ATIS: 128.250 MHz",
+        "RADAR: 122.700 MHz",
+        "RADAR: 127.700 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOBG-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:07.107398+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 3306,
+          "widthM": 61,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 3306,
+          "widthM": 61,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOBL": {
+      "elevationFt": 3003.0,
+      "runways": [
+        "09L",
+        "27R",
+        "09R",
+        "27L"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 121.250 MHz",
+        "APP: 125.275 MHz",
+        "APP: 127.750 MHz",
+        "TWR: 118.475 MHz",
+        "TWR: 119.050 MHz",
+        "TWR: 123.675 MHz",
+        "TWR: 124.350 MHz",
+        "ATIS: 128.675 MHz",
+        "ACC: 119.450 MHz",
+        "ACC: 125.750 MHz",
+        "ACC: 126.325 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOBL-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:08.953736+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09L",
+          "lengthM": 4000,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27R",
+          "lengthM": 4000,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "09R",
+          "lengthM": 4000,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "27L",
+          "lengthM": 4000,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VOBM": {
+      "elevationFt": 2489.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.050 MHz",
+        "APP: 119.200 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 119.200 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOBM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:10.387032+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 2300,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 2300,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOBR": {
+      "elevationFt": 2182.0,
+      "runways": [
+        "02",
+        "20",
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 122.850 MHz",
+        "TWR: 121.450 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOBR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:11.705062+00:00",
+      "runwayDetails": [
+        {
+          "designation": "02",
+          "lengthM": 2804,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "20",
+          "lengthM": 2804,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "08",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 2743,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOBZ": {
+      "elevationFt": 83.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.550 MHz",
+        "APP: 118.650 MHz",
+        "TWR: 118.550 MHz",
+        "TWR: 118.650 MHz",
+        "ATIS: 128.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOBZ-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:13.196336+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 3360,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 3360,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOCB": {
+      "elevationFt": 1330.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 11000,
+      "frequencies": [
+        "APP: 120.050 MHz",
+        "APP: 126.550 MHz",
+        "TWR: 118.150 MHz",
+        "TWR: 126.550 MHz",
+        "ATIS: 128.050 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOCB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:14.740900+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 2990,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 2990,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOCI": {
+      "elevationFt": 30.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 11000,
+      "frequencies": [
+        "APP: 119.750 MHz",
+        "APP: 133.150 MHz",
+        "TWR: 118.800 MHz",
+        "TWR: 119.400 MHz",
+        "ATIS: 126.200 MHz",
+        "ACC: 120.775 MHz",
+        "ACC: 133.150 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOCI-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:16.116648+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 3400,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 3400,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOCL": {
+      "elevationFt": 343.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 10000,
+      "frequencies": [
+        "APP: 122.950 MHz",
+        "TWR: 119.150 MHz",
+        "TWR: 123.350 MHz",
+        "ATIS: 126.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOCL-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:17.744856+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 2860,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 2860,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOCP": {
+      "elevationFt": 444.0,
+      "runways": [
+        "11"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.350 MHz",
+        "APP: 120.475 MHz",
+        "TWR: 118.350 MHz",
+        "TWR: 120.475 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOCP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:19.445262+00:00",
+      "runwayDetails": []
+    },
+    "VOGA": {
+      "elevationFt": 564.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 123.800 MHz",
+        "APP: 125.150 MHz",
+        "TWR: 118.725 MHz",
+        "TWR: 119.400 MHz",
+        "ATIS: 127.675 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOGA-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:21.382047+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 3500,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "28",
+          "lengthM": 3500,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VOGB": {
+      "elevationFt": 1567.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 122.025 MHz",
+        "APP: 122.425 MHz",
+        "TWR: 122.025 MHz",
+        "TWR: 122.425 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOGB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:23.226988+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 3175,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 3175,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOGO": {
+      "elevationFt": 188.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 119.700 MHz",
+        "TWR: 118.100 MHz",
+        "ATIS: 126.600 MHz",
+        "RADAR: 125.000 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOGO-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:25.946658+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 3426,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 3426,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOHB": {
+      "elevationFt": 2195.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.850 MHz",
+        "APP: 122.200 MHz",
+        "TWR: 118.850 MHz",
+        "TWR: 122.200 MHz",
+        "ATIS: 127.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOHB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:27.861721+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 2600,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "26",
+          "lengthM": 2600,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VOHS": {
+      "elevationFt": 2030.0,
+      "runways": [
+        "09R",
+        "27L",
+        "09L",
+        "27R"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "TWR: 118.200 MHz",
+        "TWR: 118.450 MHz",
+        "ATIS: 126.475 MHz",
+        "RADAR: 120.250 MHz",
+        "RADAR: 125.550 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOHS-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:30.489857+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09R",
+          "lengthM": 4260,
+          "widthM": 60,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27L",
+          "lengthM": 4260,
+          "widthM": 60,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "09L",
+          "lengthM": 3707,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27R",
+          "lengthM": 3707,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOHY": {
+      "elevationFt": 1745.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "TWR: 122.250 MHz",
+        "TWR: 132.400 MHz",
+        "ATIS: 126.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOHY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:34.597007+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 3230,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "27",
+          "lengthM": 3230,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VOJV": {
+      "elevationFt": 1686.0,
+      "runways": [
+        "13",
+        "31"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 129.225 MHz",
+        "TWR: 129.225 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOJV-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:36.825148+00:00",
+      "runwayDetails": [
+        {
+          "designation": "13",
+          "lengthM": null,
+          "widthM": null,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "31",
+          "lengthM": null,
+          "widthM": null,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOKN": {
+      "elevationFt": 344.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 10000,
+      "frequencies": [
+        "APP: 121.175 MHz",
+        "APP: 121.975 MHz",
+        "TWR: 118.050 MHz",
+        "TWR: 121.975 MHz",
+        "ATIS: 128.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOKN-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:38.239581+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 3050,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 3050,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOKU": {
+      "elevationFt": 1129.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 122.975 MHz",
+        "TWR: 119.425 MHz",
+        "TWR: 122.975 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOKU-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:39.634261+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 2000,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 2000,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOMD": {
+      "elevationFt": 466.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.450 MHz",
+        "APP: 122.800 MHz",
+        "TWR: 118.450 MHz",
+        "TWR: 122.800 MHz",
+        "ATIS: 128.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOMD-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:41.276142+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2285,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2285,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOML": {
+      "elevationFt": 318.0,
+      "runways": [
+        "06",
+        "24"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 122.100 MHz",
+        "APP: 123.850 MHz",
+        "APP: 125.050 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 122.100 MHz",
+        "ATIS: 126.250 MHz",
+        "RADAR: 127.550 MHz",
+        "RADAR: 128.700 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOML-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:42.859519+00:00",
+      "runwayDetails": [
+        {
+          "designation": "06",
+          "lengthM": 2330,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "24",
+          "lengthM": 2330,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOMM": {
+      "elevationFt": 54.0,
+      "runways": [
+        "12",
+        "30",
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 125.500 MHz",
+        "APP: 120.750 MHz",
+        "APP: 127.900 MHz",
+        "TWR: 118.100 MHz",
+        "TWR: 118.800 MHz",
+        "ATIS: 127.450 MHz",
+        "ACC: 118.900 MHz",
+        "ACC: 119.250 MHz",
+        "ACC: 124.450 MHz",
+        "ACC: 124.500 MHz",
+        "ACC: 125.300 MHz",
+        "ACC: 126.150 MHz",
+        "ACC: 128.100 MHz",
+        "ACC: 128.700 MHz",
+        "ACC: 132.250 MHz",
+        "ACC: 132.500 MHz",
+        "ACC: 132.950 MHz",
+        "ACC: 133.950 MHz",
+        "ACC: 134.250 MHz",
+        "ACC: 134.300 MHz",
+        "ACC: 134.425 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOMM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:45.232465+00:00",
+      "runwayDetails": [
+        {
+          "designation": "12",
+          "lengthM": 2890,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "30",
+          "lengthM": 2890,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "07",
+          "lengthM": 3661,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 3661,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOMY": {
+      "elevationFt": 2397.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "APP: 118.250 MHz",
+        "APP: 124.325 MHz",
+        "TWR: 118.250 MHz",
+        "TWR: 124.325 MHz",
+        "ATIS: 127.225 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOMY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:46.617441+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 1740,
+          "widthM": 30,
+          "surface": "Concrete"
+        },
+        {
+          "designation": "27",
+          "lengthM": 1740,
+          "widthM": 30,
+          "surface": "Concrete"
+        }
+      ]
+    },
+    "VOND": {
+      "elevationFt": 1241.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 118.750 MHz",
+        "TWR: 118.750 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOND-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:48.195886+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 2302,
+          "widthM": 45,
+          "surface": null
+        },
+        {
+          "designation": "28",
+          "lengthM": 2302,
+          "widthM": 45,
+          "surface": null
+        }
+      ]
+    },
+    "VOPB": {
+      "elevationFt": 93.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 123.500 MHz",
+        "TWR: 118.100 MHz",
+        "ATIS: 126.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOPB-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:50.064445+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 3277,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "22",
+          "lengthM": 3277,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOPC": {
+      "elevationFt": 141.0,
+      "runways": [
+        "07",
+        "25"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.750 MHz",
+        "APP: 122.900 MHz",
+        "TWR: 118.750 MHz",
+        "TWR: 122.900 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOPC-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:51.478675+00:00",
+      "runwayDetails": [
+        {
+          "designation": "07",
+          "lengthM": 1502,
+          "widthM": 30,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "25",
+          "lengthM": 1502,
+          "widthM": 30,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOPN": {
+      "elevationFt": 1569.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 5500,
+      "frequencies": [
+        "TWR: 118.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOPN-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:52.750949+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2224,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2224,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VORY": {
+      "elevationFt": 156.0,
+      "runways": [
+        "05",
+        "23"
+      ],
+      "transitionAltitudeFt": 5000,
+      "frequencies": [
+        "APP: 122.300 MHz",
+        "APP: 124.325 MHz",
+        "TWR: 122.300 MHz",
+        "TWR: 124.325 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VORY-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:54.078831+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 3165,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 3165,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOSM": {
+      "elevationFt": 1010.0,
+      "runways": [
+        "04",
+        "22"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "TWR: 118.850 MHz",
+        "TWR: 122.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOSM-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:55.528331+00:00",
+      "runwayDetails": [
+        {
+          "designation": "04",
+          "lengthM": 1829,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "22",
+          "lengthM": 1829,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOSH": {
+      "elevationFt": 2069.0,
+      "runways": [
+        "11"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 120.825 MHz",
+        "APP: 124.075 MHz",
+        "TWR: 120.825 MHz",
+        "TWR: 124.075 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOSH-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:56.776305+00:00",
+      "runwayDetails": []
+    },
+    "VOSR": {
+      "elevationFt": 226.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 6000,
+      "frequencies": [
+        "TWR: 118.650 MHz",
+        "TWR: 122.450 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOSR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:58.296351+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2500,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2500,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOTK": {
+      "elevationFt": 98.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 118.350 MHz",
+        "APP: 120.375 MHz",
+        "TWR: 118.350 MHz",
+        "TWR: 120.375 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOTK-en-GB.html",
+      "lastUpdated": "2026-11-13T18:30:59.689771+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 3115,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 3115,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOTP": {
+      "elevationFt": 366.0,
+      "runways": [
+        "08",
+        "26"
+      ],
+      "transitionAltitudeFt": 8000,
+      "frequencies": [
+        "APP: 119.000 MHz",
+        "APP: 124.300 MHz",
+        "TWR: 119.000 MHz",
+        "TWR: 124.300 MHz",
+        "ATIS: 127.850 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOTP-en-GB.html",
+      "lastUpdated": "2026-11-13T18:31:01.204542+00:00",
+      "runwayDetails": [
+        {
+          "designation": "08",
+          "lengthM": 3810,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "26",
+          "lengthM": 3810,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOTR": {
+      "elevationFt": 292.0,
+      "runways": [
+        "09",
+        "27"
+      ],
+      "transitionAltitudeFt": 4000,
+      "frequencies": [
+        "APP: 120.425 MHz",
+        "APP: 124.000 MHz",
+        "TWR: 118.300 MHz",
+        "TWR: 120.425 MHz",
+        "ATIS: 127.800 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOTR-en-GB.html",
+      "lastUpdated": "2026-11-13T18:31:02.776442+00:00",
+      "runwayDetails": [
+        {
+          "designation": "09",
+          "lengthM": 2423,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "27",
+          "lengthM": 2423,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOTV": {
+      "elevationFt": 17.0,
+      "runways": [
+        "14",
+        "32"
+      ],
+      "transitionAltitudeFt": 9000,
+      "frequencies": [
+        "APP: 118.725 MHz",
+        "APP: 119.600 MHz",
+        "TWR: 118.100 MHz",
+        "TWR: 118.725 MHz",
+        "ATIS: 126.600 MHz",
+        "RADAR: 125.950 MHz",
+        "RADAR: 132.250 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOTV-en-GB.html",
+      "lastUpdated": "2026-11-13T18:31:05.477437+00:00",
+      "runwayDetails": [
+        {
+          "designation": "14",
+          "lengthM": 3374,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "32",
+          "lengthM": 3374,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOVI": {
+      "elevationFt": 188.0,
+      "runways": [
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 120.050 MHz",
+        "APP: 124.400 MHz",
+        "TWR: 118.325 MHz",
+        "TWR: 119.025 MHz",
+        "ATIS: 126.275 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOVI-en-GB.html",
+      "lastUpdated": "2026-11-13T18:31:06.973433+00:00",
+      "runwayDetails": [
+        {
+          "designation": "10",
+          "lengthM": 3800,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 3800,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    },
+    "VOVZ": {
+      "elevationFt": 21.0,
+      "runways": [
+        "05",
+        "23",
+        "10",
+        "28"
+      ],
+      "transitionAltitudeFt": 7000,
+      "frequencies": [
+        "APP: 119.700 MHz",
+        "TWR: 123.500 MHz",
+        "ATIS: 126.400 MHz"
+      ],
+      "sourceUrl": "https://aim-india.aai.aero.in/eaip/eaip-v2-10-2026/eAIP/IN-AD%202.1VOVZ-en-GB.html",
+      "lastUpdated": "2026-11-13T18:31:08.403251+00:00",
+      "runwayDetails": [
+        {
+          "designation": "05",
+          "lengthM": 1829,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "23",
+          "lengthM": 1829,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "10",
+          "lengthM": 3050,
+          "widthM": 45,
+          "surface": "Asphalt"
+        },
+        {
+          "designation": "28",
+          "lengthM": 3050,
+          "widthM": 45,
+          "surface": "Asphalt"
+        }
+      ]
+    }
+  },
+  "lastRun": "2026-11-13T18:31:09.443210+00:00",
+  "lastRunSuccessful": 133
+}

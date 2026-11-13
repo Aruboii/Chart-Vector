@@ -1,0 +1,2567 @@
+
+
+/* ========================================
+
+   CHART VECTOR - AIRPORT PAGE
+
+======================================== */
+
+
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+
+
+:root {
+
+    --background: #080e18;
+
+    --surface: #101a29;
+
+    --surface-light: #142236;
+
+    --border: #223247;
+
+    --blue: #38bdf8;
+
+    --blue-light: #7dd3fc;
+
+    --text: #f1f5f9;
+
+    --muted: #94a3b8;
+
+}
+
+
+
+body {
+
+    background: var(--background);
+
+    color: var(--text);
+
+    font-family: Arial, sans-serif;
+
+}
+
+
+
+button,
+
+input {
+
+    font: inherit;
+
+}
+
+
+
+button {
+
+    cursor: pointer;
+
+}
+
+
+
+a {
+
+    color: inherit;
+
+}
+
+
+
+/* ========================================
+
+   TOP NAVIGATION
+
+======================================== */
+
+
+
+.site-header {
+
+    min-height: 80px;
+
+    padding: 14px 5%;
+
+
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 20px;
+
+
+
+    background: #0b1421;
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+
+.airport-brand {
+
+    color: white;
+
+    font-size: 22px;
+
+    font-weight: 800;
+
+    letter-spacing: 0.5px;
+
+    text-decoration: none;
+
+    white-space: nowrap;
+
+}
+
+
+
+.airport-brand span {
+
+    color: var(--blue);
+
+}
+
+
+
+.airac-indicator {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+
+
+    padding: 10px 16px;
+
+
+
+    background: #101c29;
+
+    border: 1px solid #263748;
+
+    border-radius: 10px;
+
+}
+
+
+
+.airac-dot {
+
+    width: 8px;
+
+    height: 8px;
+
+    flex-shrink: 0;
+
+
+
+    background: #35d399;
+
+    border-radius: 50%;
+
+}
+
+
+
+.airac-info {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 4px;
+
+}
+
+
+
+.airac-label {
+
+    color: #8fa4b8;
+
+    font-size: 10px;
+
+    font-weight: 700;
+
+    letter-spacing: 1px;
+
+}
+
+
+
+.airac-dates {
+
+    color: white;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    white-space: nowrap;
+
+}
+
+
+
+/* ========================================
+
+   MAIN CONTENT
+
+======================================== */
+
+
+
+main {
+
+    max-width: 1600px;
+
+    margin: auto;
+
+    padding: 28px 4% 70px;
+
+}
+
+
+
+/* Back button */
+
+
+
+.back-navigation {
+
+    margin-bottom: 30px;
+
+}
+
+
+
+.back-button {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+
+
+    padding: 12px 18px;
+
+
+
+    background: #10283b;
+
+    color: var(--blue-light);
+
+
+
+    border: 1px solid var(--blue);
+
+    border-radius: 8px;
+
+
+
+    font-size: 13px;
+
+    font-weight: 700;
+
+    text-decoration: none;
+
+
+
+    transition: 0.2s ease;
+
+}
+
+
+
+.back-button:hover {
+
+    background: #17415d;
+
+    color: white;
+
+    transform: translateY(-2px);
+
+}
+
+
+
+/* Airport title */
+
+
+
+.airport-heading {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 25px;
+
+
+
+    margin-bottom: 36px;
+
+}
+
+
+
+.eyebrow {
+
+    color: var(--blue);
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+    letter-spacing: 2px;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.airport-heading h1 {
+
+    font-size: clamp(28px, 4vw, 44px);
+
+    line-height: 1.2;
+
+    margin-bottom: 10px;
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+.airport-code {
+
+    color: var(--muted);
+
+    font-size: 14px;
+
+}
+
+
+
+.official-link {
+
+    padding: 12px 16px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 8px;
+
+
+
+    color: var(--blue-light);
+
+    font-size: 13px;
+
+    text-decoration: none;
+
+    white-space: nowrap;
+
+}
+
+
+
+.official-link:hover {
+
+    border-color: var(--blue);
+
+}
+
+
+
+[hidden] {
+
+    display: none !important;
+
+}
+
+
+
+/* ========================================
+
+   SECTION HEADINGS
+
+======================================== */
+
+
+
+.section-title {
+
+    display: flex;
+
+    align-items: end;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.section-title h2 {
+
+    font-size: 22px;
+
+}
+
+
+
+.section-title > span {
+
+    color: #64748b;
+
+    font-size: 12px;
+
+}
+
+
+
+/* ========================================
+
+   GENERAL INFORMATION CARDS
+
+======================================== */
+
+
+
+.overview-section {
+
+    margin-bottom: 25px;
+
+}
+
+
+
+.info-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    gap: 14px;
+
+}
+
+
+
+.info-card {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 14px;
+
+
+
+    min-width: 0;
+
+    min-height: 110px;
+
+    padding: 20px;
+
+
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 10px;
+
+
+
+    transition: border-color 0.2s ease;
+
+}
+
+
+
+.info-card:hover {
+
+    border-color: #326284;
+
+}
+
+
+
+.info-label {
+
+    color: var(--muted);
+
+    font-size: 10px;
+
+    font-weight: 700;
+
+    letter-spacing: 1.3px;
+
+}
+
+
+
+.info-card strong {
+
+    color: white;
+
+    font-size: 21px;
+
+    font-weight: 700;
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+/* ========================================
+
+   WEATHER AND OPERATIONS DASHBOARD
+
+======================================== */
+
+
+
+.dashboard-grid {
+
+    display: grid;
+
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+
+    gap: 20px;
+
+
+
+    margin-bottom: 55px;
+
+}
+
+
+
+.dashboard-panel {
+
+    min-width: 0;
+
+    padding: 24px;
+
+
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 10px;
+
+}
+
+
+
+.panel-heading {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+
+
+    margin-bottom: 22px;
+
+}
+
+
+
+.panel-heading h2 {
+
+    font-size: 20px;
+
+}
+
+
+
+.status-pill {
+
+    padding: 7px 11px;
+
+    border-radius: 6px;
+
+
+
+    background: #243247;
+
+    color: #cbd5e1;
+
+
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+    white-space: nowrap;
+
+}
+
+
+
+.status-pill.available {
+
+    background: #103b32;
+
+    color: #6ee7b7;
+
+}
+
+
+
+.status-pill.unavailable {
+
+    background: #3a2931;
+
+    color: #fda4af;
+
+}
+
+
+
+/* METAR */
+
+
+
+.metar-report {
+
+    min-height: 75px;
+
+    padding: 17px;
+
+
+
+    background: #080e18;
+
+    border: 1px solid #294057;
+
+    border-radius: 8px;
+
+
+
+    color: var(--blue-light);
+
+    font-family: Consolas, monospace;
+
+    font-size: 13px;
+
+    line-height: 1.8;
+
+
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+.weather-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 12px;
+
+
+
+    margin-top: 18px;
+
+}
+
+
+
+.weather-item {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+
+
+
+    padding: 16px;
+
+
+
+    background: var(--surface-light);
+
+    border: 1px solid var(--border);
+
+    border-radius: 8px;
+
+}
+
+
+
+.weather-item span {
+
+    color: var(--muted);
+
+    font-size: 10px;
+
+    letter-spacing: 1px;
+
+}
+
+
+
+.weather-item strong {
+
+    color: white;
+
+    font-size: 17px;
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+.weather-footer {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+
+
+    margin-top: 20px;
+
+}
+
+
+
+#metar-updated {
+
+    color: var(--muted);
+
+    font-size: 11px;
+
+}
+
+
+
+.refresh-button {
+
+    padding: 9px 14px;
+
+
+
+    background: #142c40;
+
+    border: 1px solid #294b65;
+
+    border-radius: 6px;
+
+
+
+    color: var(--blue-light);
+
+    font-size: 12px;
+
+    font-weight: 700;
+
+}
+
+
+
+.refresh-button:hover {
+
+    background: #1c3c55;
+
+}
+
+
+
+.refresh-button:disabled {
+
+    opacity: 0.5;
+
+    cursor: wait;
+
+}
+
+
+
+.weather-note,
+
+.operations-note {
+
+    margin-top: 20px;
+
+    color: #64748b;
+
+    font-size: 11px;
+
+    line-height: 1.7;
+
+}
+
+
+
+.weather-source {
+
+    display: inline-block;
+
+    margin-top: 12px;
+
+    color: var(--blue-light);
+
+    font-size: 12px;
+
+    text-decoration: none;
+
+}
+
+
+
+.weather-source:hover {
+
+    text-decoration: underline;
+
+}
+
+
+
+/* Operational data */
+
+
+
+.operations-list {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+
+
+.operation-row {
+
+    display: flex;
+
+    align-items: flex-start;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+
+
+    padding: 17px 0;
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+
+.operation-row:last-child {
+
+    border-bottom: none;
+
+}
+
+
+
+.operation-row span {
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+
+
+.operation-row strong {
+
+    color: white;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    text-align: right;
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+/* ========================================
+
+   CHART WORKSPACE
+
+======================================== */
+
+
+
+.charts-section {
+
+    margin-top: 20px;
+
+}
+
+
+
+.workspace {
+
+    display: grid;
+
+    grid-template-columns: 310px minmax(0, 1fr);
+
+    gap: 20px;
+
+    min-height: 700px;
+
+}
+
+
+
+/* Sidebar */
+
+
+
+.sidebar {
+
+    height: 700px;
+
+    padding: 18px;
+
+    overflow-y: auto;
+
+
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 9px;
+
+}
+
+
+
+.sidebar-heading {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 10px;
+
+
+
+    margin-bottom: 18px;
+
+}
+
+
+
+.sidebar-heading h2 {
+
+    font-size: 13px;
+
+    letter-spacing: 1px;
+
+}
+
+
+
+.sidebar-heading span {
+
+    color: var(--blue);
+
+    font-size: 12px;
+
+}
+
+
+
+/* Search */
+
+
+
+#chart-search {
+
+    width: 100%;
+
+    padding: 12px;
+
+
+
+    background: var(--background);
+
+    color: white;
+
+
+
+    border: 1px solid #294057;
+
+    border-radius: 6px;
+
+    outline: none;
+
+
+
+    margin-bottom: 20px;
+
+    font-size: 13px;
+
+}
+
+
+
+#chart-search:focus {
+
+    border-color: var(--blue);
+
+}
+
+
+
+/* Categories */
+
+
+
+.category-list {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 7px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.category-button {
+
+    padding: 7px 10px;
+
+
+
+    background: var(--surface-light);
+
+    border: 1px solid #294057;
+
+    border-radius: 5px;
+
+
+
+    color: var(--muted);
+
+    font-size: 11px;
+
+}
+
+
+
+.category-button.active,
+
+.category-button:hover {
+
+    background: #12334b;
+
+    color: var(--blue-light);
+
+    border-color: var(--blue);
+
+}
+
+
+
+/* Chart items */
+
+
+
+.chart-item {
+
+    display: block;
+
+    width: 100%;
+
+    padding: 13px 10px;
+
+
+
+    background: transparent;
+
+    border: 1px solid transparent;
+
+    border-bottom-color: var(--border);
+
+
+
+    color: #cbd5e1;
+
+    text-align: left;
+
+    font-size: 13px;
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+.chart-item:hover {
+
+    background: #17283b;
+
+}
+
+
+
+.chart-item.active {
+
+    background: #12334b;
+
+    border-color: #25658a;
+
+    color: white;
+
+}
+
+
+
+.chart-item small {
+
+    display: block;
+
+    margin-top: 5px;
+
+    color: #64748b;
+
+    font-size: 10px;
+
+}
+
+
+
+/* ========================================
+
+   PDF VIEWER
+
+======================================== */
+
+
+
+.viewer-section {
+
+    min-width: 0;
+
+
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 9px;
+
+
+
+    overflow: hidden;
+
+}
+
+
+
+.viewer-toolbar {
+
+    min-height: 85px;
+
+    padding: 18px 22px;
+
+
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+
+.viewer-toolbar h2 {
+
+    font-size: 16px;
+
+    overflow-wrap: anywhere;
+
+}
+
+
+
+.open-pdf {
+
+    color: var(--blue-light);
+
+    text-decoration: none;
+
+    font-size: 12px;
+
+    white-space: nowrap;
+
+    flex-shrink: 0;
+
+}
+
+
+
+.open-pdf:hover {
+
+    text-decoration: underline;
+
+}
+
+
+
+.pdf-container {
+
+    height: 570px;
+
+    position: relative;
+
+    background: #1b2735;
+
+}
+
+
+
+#pdf-viewer {
+
+    display: block;
+
+    width: 100%;
+
+    height: 100%;
+
+    border: none;
+
+    background: #1b2735;
+
+}
+
+
+
+.viewer-placeholder {
+
+    position: absolute;
+
+    inset: 0;
+
+
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-direction: column;
+
+
+
+    padding: 20px;
+
+
+
+    background: #1b2735;
+
+    color: var(--muted);
+
+    text-align: center;
+
+    pointer-events: none;
+
+}
+
+
+
+.viewer-placeholder.hidden {
+
+    display: none;
+
+}
+
+
+
+.placeholder-icon {
+
+    color: var(--blue);
+
+    font-size: 45px;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+.viewer-placeholder h2 {
+
+    color: white;
+
+    font-size: 18px;
+
+    margin-bottom: 8px;
+
+}
+
+
+
+.viewer-placeholder p {
+
+    font-size: 13px;
+
+    line-height: 1.6;
+
+}
+
+
+
+.disclaimer {
+
+    padding: 13px 20px;
+
+
+
+    border-top: 1px solid var(--border);
+
+    color: #64748b;
+
+    font-size: 11px;
+
+    line-height: 1.6;
+
+}
+
+
+
+/* ========================================
+
+   RESPONSIVE DESIGN
+
+======================================== */
+
+
+
+@media (max-width: 1050px) {
+
+
+
+    .dashboard-grid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+
+
+    .info-grid {
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+}
+
+
+
+@media (max-width: 850px) {
+
+
+
+    .workspace {
+
+        grid-template-columns: 1fr;
+
+    }
+
+
+
+    .sidebar {
+
+        height: 420px;
+
+    }
+
+
+
+    .pdf-container {
+
+        height: 65vh;
+
+        min-height: 400px;
+
+    }
+
+}
+
+
+
+@media (max-width: 600px) {
+
+
+
+    .site-header {
+
+        padding: 16px 5%;
+
+        flex-wrap: wrap;
+
+    }
+
+
+
+    .airport-brand {
+
+        font-size: 20px;
+
+    }
+
+
+
+    .airac-indicator {
+
+        padding: 9px 12px;
+
+    }
+
+
+
+    .airac-dates {
+
+        font-size: 11px;
+
+    }
+
+
+
+    main {
+
+        padding: 24px 5% 50px;
+
+    }
+
+
+
+    .airport-heading {
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+    }
+
+
+
+    .info-grid {
+
+        grid-template-columns: 1fr 1fr;
+
+        gap: 10px;
+
+    }
+
+
+
+    .info-card {
+
+        min-height: 95px;
+
+        padding: 15px;
+
+    }
+
+
+
+    .info-card strong {
+
+        font-size: 16px;
+
+    }
+
+
+
+    .dashboard-panel {
+
+        padding: 17px;
+
+    }
+
+
+
+    .weather-item {
+
+        padding: 13px;
+
+    }
+
+
+
+    .weather-item strong {
+
+        font-size: 14px;
+
+    }
+
+
+
+    .section-title {
+
+        align-items: flex-start;
+
+        flex-direction: column;
+
+    }
+
+
+
+    .section-title h2 {
+
+        font-size: 20px;
+
+    }
+
+
+
+    .viewer-toolbar {
+
+        align-items: flex-start;
+
+        flex-direction: column;
+
+        padding: 15px;
+
+    }
+
+
+
+    .pdf-container {
+
+        height: 60vh;
+
+        min-height: 350px;
+
+    }
+
+}
+
+
+
+/* Compact, grouped ATC frequencies */
+
+.frequency-section {
+
+    padding: 17px 0;
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+.frequency-heading {
+
+    display: flex;
+
+    align-items: baseline;
+
+    justify-content: space-between;
+
+    margin-bottom: 12px;
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+.frequency-heading small { color: #64748b; font-size: 11px; }
+
+.frequency-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 9px;
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+.frequency-card {
+
+    min-width: 0;
+
+    padding: 11px 12px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 8px;
+
+    background: var(--surface-light);
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 7px;
+
+}
+
+.frequency-service { color: var(--muted); font-size: 11px; }
+
+.frequency-values {
+
+    color: var(--text);
+
+    font-size: 12px;
+
+    font-weight: 600;
+
+    line-height: 1.65;
+
+    overflow-wrap: anywhere;
+
+}
+
+@media (max-width: 440px) {
+
+    .frequency-grid { grid-template-columns: 1fr; }
+
+}
+
+
+
+/* ========================================
+
+   ATC FREQUENCIES - CLEAN LAYOUT
+
+======================================== */
+
+
+
+/* Full-width frequency section */
+
+.frequency-section {
+
+    display: block;
+
+    padding: 18px 0;
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+
+.frequency-section .frequency-heading {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    margin-bottom: 14px;
+
+}
+
+
+
+.frequency-section .frequency-heading span {
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+
+
+.frequency-section .frequency-heading small {
+
+    color: #64748b;
+
+    font-size: 11px;
+
+}
+
+
+
+/* Main container */
+
+#op-frequencies {
+
+    display: block;
+
+    width: 100%;
+
+    min-width: 0;
+
+}
+
+
+
+/* Two equal columns */
+
+.frequency-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 12px;
+
+    width: 100%;
+
+}
+
+
+
+/* Individual service cards */
+
+.frequency-card {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 10px;
+
+
+
+    min-width: 0;
+
+    padding: 15px;
+
+
+
+    background: var(--surface-light);
+
+    border: 1px solid var(--border);
+
+    border-radius: 8px;
+
+}
+
+
+
+/* Service name */
+
+.frequency-service {
+
+    color: var(--muted);
+
+    font-size: 12px;
+
+    font-weight: 500;
+
+}
+
+
+
+/* Frequency values */
+
+.frequency-values {
+
+    display: block;
+
+    width: 100%;
+
+
+
+    color: #f1f5f9;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    line-height: 1.9;
+
+    text-align: left;
+
+
+
+    overflow-wrap: normal;
+
+    word-break: normal;
+
+}
+
+
+
+/* Footer below the grid */
+
+.frequency-note {
+
+    display: block;
+
+    width: 100%;
+
+    margin-top: 12px;
+
+
+
+    color: #64748b;
+
+    font-size: 11px;
+
+    text-align: left;
+
+}
+
+
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+    .frequency-grid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+}
+
+
+
+/* ==========================================
+
+   LIVE VATSIM TRAFFIC
+
+========================================== */
+
+
+
+.vatsim-section {
+
+    margin: 45px 0 65px;
+
+}
+
+
+
+.vatsim-status {
+
+    font-size: 12px;
+
+    color: #94a3b8;
+
+    padding: 9px 13px;
+
+    border: 1px solid #26374b;
+
+    background: #101a29;
+
+    border-radius: 8px;
+
+}
+
+
+
+.vatsim-status.online {
+
+    color: #35d399;
+
+    border-color: #245747;
+
+}
+
+
+
+.vatsim-stats {
+
+    display: grid;
+
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+
+    gap: 14px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.vatsim-stat {
+
+    background: #101a29;
+
+    border: 1px solid #223247;
+
+    border-radius: 10px;
+
+    padding: 20px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 12px;
+
+}
+
+
+
+.vatsim-stat span {
+
+    color: #94a3b8;
+
+    font-size: 11px;
+
+    letter-spacing: 0.7px;
+
+}
+
+
+
+.vatsim-stat strong {
+
+    color: #f1f5f9;
+
+    font-size: 29px;
+
+}
+
+
+
+.vatsim-map-panel,
+
+.vatsim-list-panel {
+
+    background: #101a29;
+
+    border: 1px solid #223247;
+
+    border-radius: 12px;
+
+    overflow: hidden;
+
+}
+
+
+
+.vatsim-panel-heading {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 15px;
+
+    padding: 20px;
+
+}
+
+
+
+.vatsim-panel-heading h3,
+
+.vatsim-list-panel h3 {
+
+    font-size: 16px;
+
+    color: #f1f5f9;
+
+}
+
+
+
+.vatsim-panel-heading p {
+
+    margin-top: 7px;
+
+    font-size: 12px;
+
+    color: #94a3b8;
+
+}
+
+
+
+#vt-radius {
+
+    background: #142236;
+
+    color: #f1f5f9;
+
+    border: 1px solid #30465f;
+
+    border-radius: 7px;
+
+    padding: 9px;
+
+    outline: none;
+
+}
+
+
+
+#vatsim-map {
+
+    width: 100%;
+
+    height: 440px;
+
+    background: #0c1725;
+
+    z-index: 0;
+
+}
+
+
+
+/* Darken map tiles */
+
+
+
+#vatsim-map .leaflet-tile-pane {
+
+    filter: brightness(0.68)
+
+            saturate(0.7)
+
+            hue-rotate(175deg);
+
+}
+
+
+
+#vatsim-map .leaflet-container {
+
+    background: #0c1725;
+
+}
+
+
+
+.vatsim-map-footer {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+    padding: 13px 20px;
+
+    color: #71869d;
+
+    font-size: 11px;
+
+}
+
+
+
+.vatsim-lists {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 20px;
+
+    margin-top: 20px;
+
+}
+
+
+
+.vatsim-list-panel h3 {
+
+    padding: 20px;
+
+    border-bottom: 1px solid #223247;
+
+}
+
+
+
+.vatsim-list-panel h3 span {
+
+    color: #64748b;
+
+    font-size: 13px;
+
+}
+
+
+
+.vatsim-flight-list {
+
+    max-height: 350px;
+
+    overflow-y: auto;
+
+}
+
+
+
+.vt-flight-row {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 15px;
+
+    padding: 15px 20px;
+
+    border-bottom: 1px solid #223247;
+
+}
+
+
+
+.vt-flight-row:last-child {
+
+    border-bottom: 0;
+
+}
+
+
+
+.vt-flight-row > div {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 7px;
+
+    min-width: 0;
+
+}
+
+
+
+.vt-flight-row strong {
+
+    color: #f1f5f9;
+
+    font-size: 13px;
+
+}
+
+
+
+.vt-flight-row span {
+
+    color: #94a3b8;
+
+    font-size: 12px;
+
+}
+
+
+
+.vt-flight-meta {
+
+    text-align: right;
+
+}
+
+
+
+.vatsim-atc-panel {
+
+    margin-top: 20px;
+
+}
+
+
+
+.vatsim-atc-list {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+}
+
+
+
+.vt-atc-row {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 10px;
+
+    padding: 16px 20px;
+
+    border-bottom: 1px solid #223247;
+
+}
+
+
+
+.vt-atc-row strong {
+
+    color: #7dd3fc;
+
+    font-size: 13px;
+
+}
+
+
+
+.vt-atc-row span {
+
+    color: #f1f5f9;
+
+    font-size: 12px;
+
+}
+
+
+
+.vt-empty {
+
+    padding: 25px 20px;
+
+    color: #71869d;
+
+    font-size: 13px;
+
+    line-height: 1.6;
+
+}
+
+
+
+.vt-popup {
+
+    color: #172033;
+
+    line-height: 1.6;
+
+    min-width: 160px;
+
+}
+
+
+
+.vt-popup strong {
+
+    font-size: 15px;
+
+}
+
+
+
+.vt-popup p {
+
+    font-size: 12px;
+
+}
+
+
+
+.vatsim-disclaimer {
+
+    margin-top: 16px;
+
+    color: #71869d;
+
+    font-size: 11px;
+
+    line-height: 1.7;
+
+}
+
+
+
+@media (max-width: 850px) {
+
+    .vatsim-stats {
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+
+
+    .vatsim-lists,
+
+    .vatsim-atc-list {
+
+        grid-template-columns: 1fr;
+
+    }
+
+}
+
+
+
+@media (max-width: 600px) {
+
+    #vatsim-map {
+
+        height: 330px;
+
+    }
+
+
+
+    .vatsim-stat {
+
+        padding: 14px;
+
+    }
+
+
+
+    .vatsim-stat strong {
+
+        font-size: 24px;
+
+    }
+
+
+
+    .vatsim-panel-heading {
+
+        padding: 15px;
+
+    }
+
+
+
+    .vatsim-map-footer {
+
+        flex-direction: column;
+
+        gap: 5px;
+
+    }
+
+}
+
+
+
+
+
+/* OPTIONAL VATSIM RADAR */
+
+
+
+.radar-controls {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 16px;
+
+    padding: 16px 20px;
+
+    flex-wrap: wrap;
+
+}
+
+
+
+#vt-toggle-radar {
+
+    background: #143c57;
+
+    border: 1px solid #38bdf8;
+
+    color: #7dd3fc;
+
+    padding: 11px 18px;
+
+    border-radius: 8px;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: background 0.2s;
+
+}
+
+
+
+#vt-toggle-radar:hover {
+
+    background: #1c506f;
+
+}
+
+
+
+#vt-radar-state {
+
+    color: #94a3b8;
+
+    font-size: 12px;
+
+}
+
+
+
+#vatsim-map[hidden] {
+
+    display: none !important;
+
+}
+
+
+
+#vt-radius:disabled {
+
+    opacity: 0.45;
+
+    cursor: not-allowed;
+
+}
+
+
+
+/* FIX LEAFLET RADAR LAYOUT */
+
+
+
+#vatsim-map {
+
+    position: relative;
+
+    display: block;
+
+    width: 100%;
+
+    height: 440px;
+
+    overflow: hidden;
+
+    background: #0c1725;
+
+    z-index: 0;
+
+}
+
+
+
+#vatsim-map[hidden] {
+
+    display: none !important;
+
+}
+
+
+
+/* Ensure Leaflet tiles stay inside the map */
+
+
+
+#vatsim-map .leaflet-container {
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+
+
+#vatsim-map .leaflet-tile-pane {
+
+    filter: brightness(0.75) saturate(0.8);
+
+}
+
+
+
+@media (max-width: 600px) {
+
+    #vatsim-map {
+
+        height: 330px;
+
+    }
+
+}
+
+
+/* Dark OpenStreetMap map tiles */
+#vatsim-map .leaflet-tile-pane {filter:brightness(.58) saturate(.65) hue-rotate(175deg);}
+#vatsim-map .leaflet-control-zoom a {background:#142236;color:#7dd3fc;border-color:#30465f;}
+#vatsim-map .leaflet-control-attribution {background:rgba(10,20,32,.85);color:#94a3b8;}
